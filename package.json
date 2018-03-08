@@ -5,6 +5,9 @@
   "repository": "git@github.com:slugbyte/sluggram.git",
   "author": "Duncan Marsh <dwolfm@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "9.3.0"
+  },
   "jest": {
     "verbose": true,
     "testEnvironment": "node",
